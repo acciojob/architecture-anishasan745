@@ -5,27 +5,15 @@ body {
             padding: 0;
         }
 
-        .container {
-            width: 1100px;
-            margin: 0 auto;
-        }
-
-        .imageContainer {
-            text-align: left;
-            margin-bottom: 20px;
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
-
-        table, th, td {
-            border: 1px solid #ddd;
-        }
-
-        th, td {
-            padding: 10px;
-            text-align: center;
-        }
+       .container {
+		    width: 1100px;
+            margin: 20px auto;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            border-radius: 8px;
+	    }
+.th img {
+	width: 200px;
+}
+.table
